@@ -8,7 +8,7 @@
 
 ### **System Design Summary**
 
-- **Name:** Project HydraNode (10-Node Legal Botnet)
+- **Name:** Project HydraNode (10-Node Botnet)
 - **Architecture:** Master-Slave (Command-and-Control)
 - **Control Protocols:** MQTT (Mosquitto), SSH, optional HTTP/REST
 - **Network Topology:** Star (via Router/Switch or Access Point)
@@ -72,7 +72,7 @@
 
 ---
 
-## **Software Stack (Secure & Functional)**
+## **Software Stack (Secure)**
 
 | Component | Purpose | Stack |
 |----------|---------|-------|
